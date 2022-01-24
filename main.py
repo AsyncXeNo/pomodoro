@@ -8,9 +8,9 @@ GREEN = "#00FF00"
 YELLOW = "#f7f5dd"
 FONT_NAME = "Courier"
 CHECKMARK = "✔"
-WORK_MIN = 0.1
-SHORT_BREAK_MIN = 0.1
-LONG_BREAK_MIN = 0.1
+WORK_MIN = 25
+SHORT_BREAK_MIN = 5
+LONG_BREAK_MIN = 20
 # ---------------------------------------------------------------------- #
 
 reps = 0
